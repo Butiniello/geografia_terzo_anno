@@ -9,5 +9,3 @@
 - [La Corrente del Golfo](https://butiniello.github.io/geografia_terzo_anno/01%20-%20Com%27%C3%A8%20fatto%20il%20nostro%20pianeta/La%20Corrente%20del%20Golfo.html)
 - [La circolazione dei venti](https://butiniello.github.io/geografia_terzo_anno/01%20-%20Com%27%C3%A8%20fatto%20il%20nostro%20pianeta/La%20circolazione%20dei%20venti.html)
 - [La deriva dei continenti](https://butiniello.github.io/geografia_terzo_anno/01%20-%20Com%27%C3%A8%20fatto%20il%20nostro%20pianeta/La%20deriva%20dei%20continenti.html)
-
-## Immagini

@@ -1,6 +1,6 @@
 # Geografia – Terzo anno
 
-Materiali didattici di geografia per il terzo anno: carte, immagini e pagine interattive, organizzati per capitolo.
+Materiali didattici di geografia per il terzo anno, organizzati per capitolo.
 
 ## Capitoli
 
